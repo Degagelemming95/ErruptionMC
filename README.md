@@ -10,7 +10,7 @@ ErruptionMC is a fork of GeyserMC which is a bridge between Minecraft Bedrock an
 ### Currently supporting Minecraft Bedrock v1.16.100 - v1.16.210 and Minecraft Java v1.16.4 - v1.16.5.
 
 ## What's Left to be Added/Fixed
-- Lecterns
+- Structure Block UI
 - Near-perfect movement (to the point where anticheat on large servers is unlikely to ban you)
 - Resource pack conversion/CustomModelData
 - Some Entity Flags 
