@@ -3,51 +3,21 @@
 [![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://java.com/)
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-[![Build Status](https://ci.opencollab.dev/job/Geyser/job/master/badge/icon)](https://ci.opencollab.dev/job/GeyserMC/job/Geyser/job/master/)
-[![Discord](https://img.shields.io/discord/613163671870242838.svg?color=%237289da&label=discord)](http://discord.geysermc.org/)
-[![HitCount](http://hits.dwyl.io/Geyser/GeyserMC.svg)](http://hits.dwyl.io/Geyser/GeyserMC)
-[![Crowdin](https://badges.crowdin.net/geyser/localized.svg)](https://translate.geysermc.org/)
 
-Geyser is a bridge between Minecraft: Bedrock Edition and Minecraft: Java Edition, closing the gap from those wanting to play true cross-platform.
 
-Geyser is an open collaboration project by [CubeCraft Games](https://cubecraft.net).
+ErruptionMC is a fork of GeyserMC which is a bridge between Minecraft Bedrock and Java Edition. 
 
-## What is Geyser?
-Geyser is a proxy, bridging the gap between Minecraft: Bedrock Edition and Minecraft: Java Edition servers.
-The ultimate goal of this project is to allow Minecraft: Bedrock Edition users to join Minecraft: Java Edition servers as seamlessly as possible. **Please note, this project is still a work in progress and should not be used on production. Expect bugs!**
+Modified version of GeyserMC which is an open collaboration software by CubeCraft Games.
 
-Special thanks to the DragonProxy project for being a trailblazer in protocol translation and for all the team members who have now joined us here!
+Special thanks to the GeyserMC project for being a base software for us to modify to add new features and fix issues!!
 
 ### Currently supporting Minecraft Bedrock v1.16.100 - v1.16.210 and Minecraft Java v1.16.4 - v1.16.5.
-
-## Setting Up
-Take a look [here](https://github.com/GeyserMC/Geyser/wiki#Setup) for how to set up Geyser.
-
-[![YouTube Video](https://img.youtube.com/vi/U7dZZ8w7Gi4/0.jpg)](https://www.youtube.com/watch?v=U7dZZ8w7Gi4)
-
-## Links:
-- Website: https://geysermc.org
-- Docs: https://github.com/GeyserMC/Geyser/wiki
-- Download: http://ci.geysermc.org
-- Discord: http://discord.geysermc.org/
-- ~~Donate: https://patreon.com/GeyserMC~~ Currently disabled.
-- Test Server: `test.geysermc.org` port `25565` for Java and `19132` for Bedrock
 
 ## What's Left to be Added/Fixed
 - Lecterns
 - Near-perfect movement (to the point where anticheat on large servers is unlikely to ban you)
 - Resource pack conversion/CustomModelData
-- Some Entity Flags
-- The Following Inventories 
-  - Enchantment Table (as a proper GUI)
-  - Beacon
-  - Cartography Table
-  - Stonecutter
-  - Structure Block
-  - Horse Inventory
-  - Loom
-  - Smithing Table
-  - Grindstone
+- Some Entity Flags 
 
 ## What can't be fixed
 The following things can't be fixed because of Bedrock limitations. They might be fixable in the future, but not as of now.
