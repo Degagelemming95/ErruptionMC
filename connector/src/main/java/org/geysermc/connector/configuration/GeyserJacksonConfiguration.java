@@ -83,7 +83,7 @@ public abstract class GeyserJacksonConfiguration implements GeyserConfiguration 
     private boolean forwardPlayerPing = false;
 
     @JsonProperty("max-players")
-    private int maxPlayers = 100;
+    private int maxPlayers = 50;
 
     @JsonProperty("debug-mode")
     private boolean debugMode = false;
@@ -141,8 +141,8 @@ public abstract class GeyserJacksonConfiguration implements GeyserConfiguration 
         @JsonProperty("clone-remote-port")
         private boolean cloneRemotePort = false;
 
-        private String motd1 = "GeyserMC";
-        private String motd2 = "Geyser";
+        private String motd1 = "ErruptionMC";
+        private String motd2 = "Play with your Java Friends";
 
         @JsonProperty("server-name")
         private String serverName = GeyserConnector.NAME;
